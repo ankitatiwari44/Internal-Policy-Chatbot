@@ -136,14 +136,17 @@ streamlit run app.py
 
 ## Conclusion
 
-This project demonstrates a practical implementation of Retrieval-Augmented Generation using local models. It ensures accurate, explainable, and document-grounded responses, making it suitable for applications like policy assistants, document Q&A systems, and internal knowledge bases.
-![alt text](image.png)
-![alt text](image-1.png)
-![alt text](image-2.png)
-![alt text](image-3.png)
-![alt text](image-4.png)
-![alt text](image-5.png)
-![alt text](image-6.png)
-![alt text](image-7.png)
-![alt text](image-8.png)
-![alt text](image-9.png)
+This project demonstrates a practical implementation of Retrieval-Augmented Generation using local models. It ensures accurate, explainable, and document-grounded responses, making it suitable for applications like pol
+icy assistants, document Q&A systems, and internal knowledge bases.
+<img width="1920" height="893" alt="image" src="https://github.com/user-attachments/assets/0675c01b-d598-47a7-90df-cce780aa1dc2" />
+<img width="1462" height="737" alt="image-1" src="htt<img width="1333" height="802" alt="image-5" src="https://github.com/user-attachments/assets/be2b1c74-5f75-4fe4-80c6-5e1105bab667" />
+<img width="1461" height="825" alt="image-2" src="https://github.com/user-attachments/assets/b384e289-d179-4a23-bba0-6d022b3a185b" />
+<img width="1424" height="794" alt="image-3" src="https://github.com/user-attachments/assets/c1349420-ab1c-4fbc-840d-fdbf42bab334" />
+ps://git<img width="1412" height="747" alt="image-4" src="https://github.com/user-attachments/assets/80f88974-af0d-420d-bde3-993873dc9033" />
+<img width="1333" height="802" alt="image-5" src="https://github.com/user-attachments/assets/e62d8cc0-2d9f-4f14-b0aa-b2b7e3117d6c" />
+hub.com/user-attachments/assets/635c1f4b-ddf1-442c-af5b-bec59738d3<img width="1326" height="592" alt="image-6" src="https://github.com/user-attachments/assets/802880c1-7b65-4bac-80a0-de55c7d14ea3" />
+c3" /><img width="1433" height="567" alt="image-7" src="https://github.com/user-attachments/assets/75a4ad7b-f430-4f33-b9fb-c3e07c694392" />
+<img width="1428" height="732" alt="image-8" src="https://github.com/user-attachments/assets/0063e05b-2c00-4846-b646-5712fc71edc1" />
+<img width="1309" height="709" alt="image-9" src="https://github.com/user-attachments/assets/d2ede405-111c-447e-9e8d-3affe8bae6cc" />
+
+
